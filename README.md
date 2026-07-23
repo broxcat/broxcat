@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**broxcat/broxcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐱 Brokcat
+**SOC Analyst | CyberDefenders Player | Top 10 🇫🇷**
 
-Here are some ideas to get you started:
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Player-blue)](https://cyberdefenders.org/p/brokcat11/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brokcat/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+</div>
+
+## 🕵️‍♂️
+Passionate about Blue Team and DFIR.
+
+* **Languages:** 🇫🇷 Native | 🇬🇧 English (B1) | 🇨🇳 Chinese (A1)
+* **Key Interests:** SOC, Digital Forensics & Incident Response, Malware Analysis, Threat Intelligence.
+
+---
+
+## 🛠️ Arsenal & Toolkit
+
+| Category | Tools & Skills |
+|:---:|:---|
+| **Threat Hunting** | Splunk, Elastic, MITRE ATT&CK |
+| **Investigation Forensique** | Volatility2, FTK Imager, Suite Eric Zimmerman |
+| **Analyse de Malware** | CFF Explorer, Detect It Easy, PE-bear, Any.run |
+| **Threat Intelligence** | OpenCTI, AlienVault OTX, MalwareBazaar, ThreatFox |
+
+---
+
+## 📜 Certifications
+* **13Cubed** (Investigating Windows Memory) — *In progress*
+
+---
