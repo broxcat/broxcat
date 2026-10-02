@@ -12,7 +12,7 @@
 ## 🕵️‍♂️
 Passionate about Blue Team and DFIR.
 
-* **Languages:** 🇫🇷 Native | 🇬🇧 English (B1) | 🇨🇳 Chinese (A1)
+* **Languages:** 🇫🇷 Native | 🇬🇧 English (B1)
 * **Key Interests:** SOC, Digital Forensics & Incident Response, Malware Analysis, Threat Intelligence.
 
 ---
