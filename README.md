@@ -29,6 +29,6 @@ Passionate about Blue Team and DFIR.
 ---
 
 ## 📜 Certifications
-* **13Cubed** (Investigating Windows Memory) — *In progress*
+* **13Cubed** (Investigating Windows Memory)
 
 ---
